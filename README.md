@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hajira Banu</h1>
-<h3 align="center">im a passionate coder</h3>
+<h3 align="center">i'm a passionate coder and a problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousdarkcoder&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousdarkcoder" /> </p>
 
