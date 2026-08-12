@@ -1,191 +1,199 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anonymousdarkcoder.anonymousdarkcoder&left_color=black&right_color=chocolate"  />
+
+<img src="https://komarev.com/ghpvc/?username=hajirabanu05&label=Profile%20Views&color=blueviolet&style=flat-square" />
+
 </div>
 
-# ˙✮ About Me ?
-I am Hajira Banu.<br>An undergraduate engineering student at AIT, Chikkamagaluru.<br>I am currently learning Artificial Intelligence and Machine Learning.<br>I enjoy building creative and innovative projects.<br>In my free time, I enjoy watching anime and reading novels.
+<br>
 
+Hi, I'm Hajira Banu :) 
 
-## ₍^. .^₎⟆ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/hajira-banu-688789323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hajirabanu8080@gmail.com) 
+• B.E. in Artificial Intelligence & Machine Learning
+• AIT, Chikkamagaluru
+• Aspiring Machine Learning Engineer | AIML Engineer
 
-# ☕︎‧₊˚⏱٠࣪💻₊˚ᵎTech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# ⚔︎ GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hajirabanu05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hajirabanu05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hajirabanu05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I’m currently learning problem solving, Data Structures & Algorithms,
+and Machine Learning while building AIML projects that genuinely
+excite me.
 
+In my free time, I enjoy crocheting 🧶 and playing badminton 🏸.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+───────────────────────────────────────────────────────────────
 
 
 
+☕︎‧₊˚⏱٠࣪💻₊˚ᵎ TECH STACK 
 
 
+Languages
 
+• Python
+• Java
+• SQL
 
 
+Machine Learning & Data
 
+• PyTorch
+• Scikit-learn
+• XGBoost
+• Pandas
+• NumPy
 
 
+Backend & Engineering
 
+• FastAPI
+• React
+• SQLite
+• Docker
+• MLflow
 
 
+Tools & Environment
 
+• Git
+• GitHub
+• Linux
 
 
+───────────────────────────────────────────────────────────────
 
 
+⚙︎ FEATURED PROJECT 
 
 
+🤖 Industrial Predictive Maintenance ML
 
+An end-to-end machine learning system for industrial equipment
+failure prediction, machine health monitoring, and maintenance
+decision support.
 
+Tech Used:
 
+Python • Scikit-learn • XGBoost • Pandas • NumPy
+FastAPI • React • SQLite • Docker • MLflow
+Git • GitHub • Linux
 
+Project Highlights:
 
+• Industrial sensor-data processing
+• Machine failure prediction
+• Failure probability and severity classification
+• Machine health monitoring
+• Automated maintenance alerts
+• Historical machine-data storage
+• Machine-learning model evaluation
+• Imbalanced-data handling
+• ML experiment tracking
+• FastAPI backend
+• React interface
+• Dockerized application
 
 
+🚀 GitHub Repository:
 
+https://github.com/hajirabanu05/industrial-predictive-maintenance-ml
 
 
+───────────────────────────────────────────────────────────────
 
 
+✧｡˚ WHAT I'M WORKING TOWARDS ˚｡✧
 
 
+                         MACHINE LEARNING
+                              ENGINEER
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+             DSA                  ML            ENGINEERING
+              │                   │                   │
+              ▼                   ▼                   ▼
+       Problem Solving       Model Building     APIs / Docker
+              │                   │                   │
+              │                   ▼                   │
+              │              Deep Learning           │
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  │
+                                  ▼
+                           Production ML
+                              Systems
 
 
+───────────────────────────────────────────────────────────────
 
 
+🧩 GOALS 
 
 
+✓ Build strong problem-solving skills
+✓ Master Data Structures & Algorithms
+✓ Strengthen Machine Learning fundamentals
+✓ Build advanced AIML projects
+✓ Learn production ML workflows
+✓ Learn PostgreSQL
+✓ Build scalable AI / ML systems
+✓ Improve software engineering skills
+✓ Contribute to open-source projects
+✓ Become a strong Machine Learning Engineer
 
 
+───────────────────────────────────────────────────────────────
 
 
+☯︎ CONNECT WITH ME 
 
 
+LinkedIn:
+[Hajira Banu](https://www.linkedin.com/in/hajira-banu-688789323/)
 
 
+GitHub:
+[hajirabanu05](https://github.com/hajirabanu05)
 
 
+LeetCode:
+[Hajira_banu](https://leetcode.com/u/Hajira_banu/)
 
 
+Email:
+[hajirabanu8080@gmail.com](mailto:hajirabanu8080@gmail.com)
 
 
+───────────────────────────────────────────────────────────────
 
 
 
+₍^. .^₎ A LITTLE MORE ABOUT ME 
 
 
+🧠 I enjoy solving problems
 
+🤖 I enjoy building AIML projects
 
+💻 I enjoy learning how systems work
 
+🧶 I crochet
 
+🏸 I play badminton
 
+📚 I enjoy novels and anime
 
 
+───────────────────────────────────────────────────────────────
 
 
+                         ✦ LEARN • BUILD • IMPROVE ✦
 
+                    one project at a time.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                         ｡･ﾟ･ﾟ･ﾟ･ﾟ･ﾟ･ﾟ･ﾟ･ﾟ･｡
