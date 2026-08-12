@@ -18,15 +18,18 @@
 
 Hi, I'm Hajira Banu :) 
 
-• B.E. in Artificial Intelligence & Machine Learning
-• AIT, Chikkamagaluru
-• Machine Learning Engineer | AIML Engineer
+Machine Learning Engineer | AI/ML
 
-I’m currently learning problem solving, Data Structures & Algorithms,
-and Machine Learning while building AIML projects that genuinely
-excite me.
+B.E. Artificial Intelligence & Machine Learning student at
+Adichunchanagiri Institute of Technology (AIT), Chikkamagaluru.
 
-In my free time, I enjoy crocheting 🧶 and playing badminton 🏸.
+I build practical machine learning and AI systems!
+
+Currently learning:
+• Machine Learning
+• Deep Learning
+• Data Structures & Algorithms
+• ML Engineering
 
 ────────────────────────────────────────────────────────────
 
