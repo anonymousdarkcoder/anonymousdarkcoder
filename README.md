@@ -1,6 +1,10 @@
 <div align="center">
 
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img height="180" src="./images/gojoo.jpeg" />
+
+<br>
+
+<sub><i>“Limitless potential. Questionable sleep schedule. Clean commits.”</i></sub>
 
 </div>
 
