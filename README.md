@@ -20,7 +20,7 @@ Hi, I'm Hajira Banu :)
 
 • B.E. in Artificial Intelligence & Machine Learning
 • AIT, Chikkamagaluru
-• Aspiring Machine Learning Engineer | AIML Engineer
+• Machine Learning Engineer | AIML Engineer
 
 I’m currently learning problem solving, Data Structures & Algorithms,
 and Machine Learning while building AIML projects that genuinely
@@ -28,7 +28,7 @@ excite me.
 
 In my free time, I enjoy crocheting 🧶 and playing badminton 🏸.
 
-───────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 
 
@@ -54,7 +54,6 @@ Machine Learning & Data
 Backend & Engineering
 
 • FastAPI
-• React
 • SQLite
 • Docker
 • MLflow
@@ -67,7 +66,7 @@ Tools & Environment
 • Linux
 
 
-───────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 
 ⚙︎ FEATURED PROJECT 
@@ -106,7 +105,7 @@ Project Highlights:
 https://github.com/hajirabanu05/industrial-predictive-maintenance-ml
 
 
-───────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 
 ✧｡˚ WHAT I'M WORKING TOWARDS ˚｡✧
@@ -133,7 +132,7 @@ https://github.com/hajirabanu05/industrial-predictive-maintenance-ml
                               Systems
 
 
-───────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 
 🧩 GOALS 
@@ -151,7 +150,7 @@ https://github.com/hajirabanu05/industrial-predictive-maintenance-ml
 ✓ Become a strong Machine Learning Engineer
 
 
-───────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 
 ☯︎ CONNECT WITH ME 
@@ -173,7 +172,7 @@ Email:
 [hajirabanu8080@gmail.com](mailto:hajirabanu8080@gmail.com)
 
 
-───────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 
 
@@ -193,7 +192,7 @@ Email:
 📚 I enjoy novels and anime
 
 
-───────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 
                          ✦ LEARN • BUILD • IMPROVE ✦
